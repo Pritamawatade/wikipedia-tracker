@@ -19,7 +19,7 @@ A Chrome extension built with React and Tailwind CSS that helps you track your p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wikipedia-tracker.git
+git clone https://github.com/Pritamawatade/wikipedia-tracker.git
 cd wikipedia-tracker
 ```
 
